@@ -1,4 +1,4 @@
-# islaah-dua-azkaar
+# Islaah - Dua & Azkaar
 
 Path to the app in Google Play Store
 
